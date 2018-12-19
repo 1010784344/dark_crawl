@@ -1,0 +1,377 @@
+{
+  "count": 8, 
+  "start": 0, 
+  "subject_collection_items": [
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 4615, 
+        "max": 10, 
+        "value": 9.4
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 中国大陆 / 真人秀 / 于蕾 / 张国立 蓝天野", 
+      "recommend_comment": "没别的意思，就是为了针对21小时前的2星 —— 昵称空的短评", 
+      "id": "30352947", 
+      "title": "国家宝藏 第二季", 
+      "label": null, 
+      "actors": [
+        "张国立", 
+        "蓝天野", 
+        "黎明"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": true, 
+      "price": null, 
+      "date": null, 
+      "info": "中国大陆 / 真人秀 / 于蕾 / 张国立 蓝天野", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30352947", 
+      "release_date": "12.09", 
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2541540687.jpg", 
+        "width": 1504, 
+        "shape": "rectangle", 
+        "height": 2668
+      }, 
+      "uri": "douban://douban.com/tv/30352947", 
+      "subtype": "", 
+      "directors": [
+        "于蕾"
+      ], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 2858, 
+        "max": 10, 
+        "value": 6.6
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 中国大陆 / 音乐 真人秀 / 章骊 / 张艺兴 尚雯婕", 
+      "recommend_comment": "没人粉那个提着麻袋装纸糊键盘上的小哥吗，植物大战僵尸太好听了！！！感谢豆瓣提前观影团！！！另外请告诉我如何才能去现场看这个？？！比夜店嗨多了好吗 —— 翩翩的短评", 
+      "id": "30345107", 
+      "title": "即刻电音", 
+      "label": null, 
+      "actors": [
+        "张艺兴", 
+        "尚雯婕", 
+        "大张伟"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": true, 
+      "price": null, 
+      "date": null, 
+      "info": "中国大陆 / 音乐 真人秀 / 章骊 / 张艺兴 尚雯婕", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30345107", 
+      "release_date": "12.01", 
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2538657890.jpg", 
+        "width": 2543, 
+        "shape": "rectangle", 
+        "height": 4521
+      }, 
+      "uri": "douban://douban.com/tv/30345107", 
+      "subtype": "", 
+      "directors": [
+        "章骊"
+      ], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 152, 
+        "max": 10, 
+        "value": 7.4
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 中国大陆 / 脱口秀 / 孙明月 / 窦文涛 张星月", 
+      "recommend_comment": "昨天看的那一集还挺不错的，讲的是金庸先生的作品和故事。请来了两个和金庸先生有关的人，一个是和他认识了30多年的朋友，一个是他认定的小龙女，当中还播放了很多以前的武侠片，真的是回忆满满啊，觉得非常好看！ —— 漂亮🌸的她🌸的短评", 
+      "id": "30393839", 
+      "title": "一路书香 第二季", 
+      "label": null, 
+      "actors": [
+        "窦文涛", 
+        "张星月", 
+        "刘嘉玲"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": false, 
+      "price": null, 
+      "date": null, 
+      "info": "中国大陆 / 脱口秀 / 孙明月 / 窦文涛 张星月", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30393839", 
+      "release_date": "11.29", 
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2541561981.jpg", 
+        "width": 533, 
+        "shape": "rectangle", 
+        "height": 800
+      }, 
+      "uri": "douban://douban.com/tv/30393839", 
+      "subtype": "", 
+      "directors": [
+        "孙明月"
+      ], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 1442, 
+        "max": 10, 
+        "value": 7.5
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 中国大陆 / 真人秀 / 高伟恩 / 谢霆锋 林依晨", 
+      "recommend_comment": "全程看花絮的感觉…后期特效都很幼稚 —— placida的短评", 
+      "id": "30181593", 
+      "title": "锋味", 
+      "label": null, 
+      "actors": [
+        "谢霆锋", 
+        "林依晨", 
+        "吴彦祖"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": true, 
+      "price": null, 
+      "date": null, 
+      "info": "中国大陆 / 真人秀 / 高伟恩 / 谢霆锋 林依晨", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30181593", 
+      "release_date": "11.24", 
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2540670229.jpg", 
+        "width": 3508, 
+        "shape": "rectangle", 
+        "height": 4963
+      }, 
+      "uri": "douban://douban.com/tv/30181593", 
+      "subtype": "", 
+      "directors": [
+        "高伟恩"
+      ], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 116, 
+        "max": 10, 
+        "value": 7.5
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 韩国 / 歌舞 真人秀 / 吴弘学 李宜缜", 
+      "recommend_comment": "素人恋爱节目都要审美疲劳了，而男女共舞容易产生暧昧情愫，所以节目聪明地加上音乐、舞蹈元素救了一下 —— Santorini的短评", 
+      "id": "30367766", 
+      "title": "Somebody", 
+      "label": null, 
+      "actors": [
+        "吴弘学", 
+        "李宜缜", 
+        "韩善天"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": false, 
+      "price": null, 
+      "date": null, 
+      "info": "韩国 / 歌舞 真人秀 / 吴弘学 李宜缜", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30367766", 
+      "release_date": "11.23", 
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2538686722.jpg", 
+        "width": 1388, 
+        "shape": "rectangle", 
+        "height": 2048
+      }, 
+      "uri": "douban://douban.com/tv/30367766", 
+      "subtype": "", 
+      "directors": [], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 188, 
+        "max": 10, 
+        "value": 7.4
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 中国大陆 / 真人秀 / 侯佩岑 王彦霖", 
+      "recommend_comment": "有林🐶的综艺必看啊，加上萌娃。还真不错。 —— 天下第二也挺好的短评", 
+      "id": "30319405", 
+      "title": "带我去远方", 
+      "label": null, 
+      "actors": [
+        "侯佩岑", 
+        "王彦霖", 
+        "陈意涵"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": false, 
+      "price": null, 
+      "date": null, 
+      "info": "中国大陆 / 真人秀 / 侯佩岑 王彦霖", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30319405", 
+      "release_date": "11.21", 
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2540919809.jpg", 
+        "width": 2000, 
+        "shape": "rectangle", 
+        "height": 2917
+      }, 
+      "uri": "douban://douban.com/tv/30319405", 
+      "subtype": "", 
+      "directors": [], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 169, 
+        "max": 10, 
+        "value": 7.8
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 美国 / 真人秀", 
+      "recommend_comment": "名厨们奠定了高水准赏心悦目的基调，各国菜系的赛制又保证了挑战性和悬念。就是菜系的选择有点不够过瘾。不过也是为了能拍续集不能一下子厉害的全上了，可以理解。 —— 孟飞升的短评", 
+      "id": "30353363", 
+      "title": "国际名厨争霸赛", 
+      "label": null, 
+      "actors": [], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": false, 
+      "price": null, 
+      "date": null, 
+      "info": "美国 / 真人秀 / ", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30353363", 
+      "release_date": "11.20", 
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2538285530.jpg", 
+        "width": 800, 
+        "shape": "rectangle", 
+        "height": 1187
+      }, 
+      "uri": "douban://douban.com/tv/30353363", 
+      "subtype": "", 
+      "directors": [], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }, 
+    {
+      "original_price": null, 
+      "rating": {
+        "count": 275, 
+        "max": 10, 
+        "value": 7.9
+      }, 
+      "actions": [], 
+      "is_new_tv": false, 
+      "year": "2018", 
+      "card_subtitle": "2018 / 韩国 / 真人秀 / 刘在锡 梁世亨", 
+      "recommend_comment": "小梁+张度妍+大神！第一期笑的停不下来！ —— wrh526的短评", 
+      "id": "30382853", 
+      "title": "美秋里8-1000", 
+      "label": null, 
+      "actors": [
+        "刘在锡", 
+        "梁世亨", 
+        "姜其永"
+      ], 
+      "interest": null, 
+      "type": "tv", 
+      "forum_info": null, 
+      "description": "", 
+      "has_linewatch": false, 
+      "price": null, 
+      "date": null, 
+      "info": "韩国 / 真人秀 / 刘在锡 梁世亨", 
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/30382853", 
+      "release_date": "11.16", 
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2540563213.jpg", 
+        "width": 410, 
+        "shape": "rectangle", 
+        "height": 600
+      }, 
+      "uri": "douban://douban.com/tv/30382853", 
+      "subtype": "", 
+      "directors": [], 
+      "reviewer_name": "", 
+      "null_rating_reason": ""
+    }
+  ], 
+  "total": 198, 
+  "subject_collection": {
+    "subject_count": 198, 
+    "name": "近期热门综艺节目", 
+    "short_name": "综合", 
+    "collect_count": 0, 
+    "url": "https://m.douban.com/app_topic/tv_variety_show", 
+    "description": "", 
+    "type_icon_bg_text": "", 
+    "uri": "douban://douban.com/subject_collection/tv_variety_show", 
+    "cover_url": "", 
+    "updated_at": null, 
+    "icon_fg_image": "", 
+    "type_text": "", 
+    "show_header_mask": false, 
+    "display": {
+      "layout": "list"
+    }, 
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/tv_variety_show/", 
+    "mini_program_name": "", 
+    "id": "tv_variety_show", 
+    "medium_name": "", 
+    "mini_program_page": "", 
+    "show_filter_playable": true, 
+    "background_color_scheme": {
+      "is_dark": true, 
+      "primary_color_light": "726f67", 
+      "secondary_color": "f9f8f4", 
+      "primary_color_dark": "4c4a45"
+    }
+  }
+}
