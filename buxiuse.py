@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#图片保存到本地 urllib.urlretrieve
+# 没有页数限制的数据爬取
 # leg 下载
 import requests
 from lxml import etree

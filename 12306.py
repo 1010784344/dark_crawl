@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
+# 12306 验证码识别及处理
+
 import requests
 import base64
 import re
 import json
-
+# 同一页面的多个请求关联起来使用session
 session = requests.Session()
-# 基于requests的get请求
+
 if __name__ == '__main__':
     # 图片信息下载
     url = 'https://kyfw.12306.cn/passport/captcha/captcha-image64?login_site=E&module=login&rand=sjrand&1558493043961&callback=jQuery19103091774881838292_1558435064217&_=1558435064228'

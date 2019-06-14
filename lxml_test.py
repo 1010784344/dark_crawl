@@ -39,6 +39,8 @@ if __name__ == '__main__':
         item['comment'] = table.xpath('.//span[@class="pl"]/text()')[0]
         print item
 
+#<span class="format-time">1天前发布</span>,这种获取文字不是属性要加“/text()”
+# 如果获取的是属性的值就不用加“/text()”
 
 
 
