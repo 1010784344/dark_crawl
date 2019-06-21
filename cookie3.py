@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
+# 人人网使用session 进行cookie的访问
+# ‘session’访问需要登录才能访问的页面进阶升级版
 import requests
-# 此url特指登录页面form/action 属性的登录链接
+
 url = 'http://www.renren.com/PLogin.do'
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2626.106 Safari/537.36'}
+# 登录页面两个输入框‘name’的值
 postdata = {'email':'18735934287','password':'cwx364505'}
 
 
