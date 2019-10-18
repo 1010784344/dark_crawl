@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-#帮忙
+# 网页：帮李国瑞同学爬取的设计图片网站
+# 类型：单列表页展示
+# 方式：简单的get请求
+
 import requests
 from lxml import etree
 import urllib

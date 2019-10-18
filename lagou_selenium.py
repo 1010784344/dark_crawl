@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # selenium 完整流程
-
+# 主页列表加详情页信息爬取
 
 from selenium import webdriver
 from lxml import etree
