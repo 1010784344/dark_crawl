@@ -8,8 +8,10 @@ if __name__ == '__main__':
     # 请求百度首页没加headers请求的时候数据是不对的
     response = requests.get(url,headers=headers)
 
-    print response #<Response [200]>
+    # 输出状态码 200
+    print response
 
+    # 输出 html 源码
     print response.content
 
 
