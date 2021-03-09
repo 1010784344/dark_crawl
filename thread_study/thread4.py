@@ -19,7 +19,7 @@ def add_value():
         VALUE+=1
         glock.release()#解锁
 
-    print ('VALUE:%s'%VALUE)
+    # print ('VALUE:%s\n'%VALUE)
 
 def run():
     # 留意这种线程的启动方式也是可以的
@@ -27,7 +27,9 @@ def run():
         t = threading.Thread(target=add_value)
         t.start()
 
-
+    import time
+    time.sleep(1)
+    print ('VALUE:%s\n' % VALUE)
 if __name__ == '__main__':
 
     run()
