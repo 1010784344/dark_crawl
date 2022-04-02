@@ -1,6 +1,9 @@
 # -*- coding: UTF-8 -*-
 from selenium import webdriver
 import time
+
+# selenium 模拟人工数据爬取
+
 if __name__ == '__main__':
     driver_path = r'D:\tools\chromedriver.exe'
     # 有了driver 以后就可以使用driver去操作浏览器了

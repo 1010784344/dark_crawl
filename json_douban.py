@@ -13,7 +13,7 @@ class Douban(object):
         htm = json.loads(html_str)
         htm_data = htm['subject_collection_items']
         total = htm['total']
-        print total
+        print(total)
         return htm_data,total
     def savedata(self,strdata):
         with open('douban.txt','a') as f:

@@ -7,7 +7,8 @@ from lxml import etree
 import time
 
 class lagouSpider(object):
-    driver_path = r'D:\tools\chromedriver.exe'
+    # driver_path = r'D:\tools\chromedriver.exe'
+    driver_path = r'D:\chrome_test\chromedriver.exe'
     def __init__(self):
         # 注意 driver_path 的引用
         self.driver = webdriver.Chrome(executable_path=lagouSpider.driver_path)
@@ -17,6 +18,7 @@ class lagouSpider(object):
         # 解析对应的详情页
     def request_detail_page(self, table):
         self.driver.get(table)
+        # 获取到页面源码
         data = self.driver.page_source
 
         htmlstr = etree.HTML(data)
@@ -25,7 +27,7 @@ class lagouSpider(object):
 
         advantagedict = {u'职位诱惑': advantage}
 
-        print advantagedict
+        print(advantagedict)
 
         self.posiav.append(advantagedict)
 
@@ -53,7 +55,7 @@ class lagouSpider(object):
 
         # 给详情页单独新建一个窗口
         self.driver.execute_script('window.open("%s")' % self.url)
-        self.driver.switch_to_window(self.driver.window_handles[1])
+        self.driver.switch_to.window(self.driver.window_handles[1])
 
         htmlobj = etree.HTML(source)
         # <a class="position_link" href="https://www.lagou.com/jobs/4694651.html"</a>

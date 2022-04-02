@@ -21,10 +21,10 @@ if __name__ == '__main__':
 
 
     pid = 0
-    print 'Start playing： %s' % ctime()
+    print('Start playing： %s' % ctime())
     for pic in outlist:
         filename = r'D:\outwork\crawl\jpg3\%s.jpg'%pid
         result = urllib.urlretrieve(pic,filename)
         pid  += 1
 
-    print 'end:%s' % ctime()
+    print('end:%s' % ctime())
